@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\.Net\.Net-Basics\UserInput\UserInput\obj\Debug\net6.0\UserInput.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\UserInput\UserInput\obj\Debug\net6.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\.Net\.Net-Basics\UserInput\UserInput\obj\Debug\net6.0\UserInput.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\UserInput\UserInput\obj\Debug\net6.0\UserInput.AssemblyInfo.cs
+C:\Users\Hp\source\repos\.Net\.Net-Basics\UserInput\UserInput\obj\Debug\net6.0\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\UserInput\UserInput\bin\Debug\net6.0\UserInput.exe
+C:\Users\Hp\source\repos\.Net\.Net-Basics\UserInput\UserInput\bin\Debug\net6.0\UserInput.deps.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\UserInput\UserInput\bin\Debug\net6.0\UserInput.runtimeconfig.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\UserInput\UserInput\bin\Debug\net6.0\UserInput.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\UserInput\UserInput\bin\Debug\net6.0\UserInput.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\UserInput\UserInput\obj\Debug\net6.0\UserInput.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\UserInput\UserInput\obj\Debug\net6.0\refint\UserInput.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\UserInput\UserInput\obj\Debug\net6.0\UserInput.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\UserInput\UserInput\obj\Debug\net6.0\UserInput.genruntimeconfig.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\UserInput\UserInput\obj\Debug\net6.0\ref\UserInput.dll
