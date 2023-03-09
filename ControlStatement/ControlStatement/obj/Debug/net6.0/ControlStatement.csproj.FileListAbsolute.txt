@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ControlStatement\ControlStatement\obj\Debug\net6.0\ControlStatement.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ControlStatement\ControlStatement\obj\Debug\net6.0\ControlStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ControlStatement\ControlStatement\obj\Debug\net6.0\ControlStatement.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ControlStatement\ControlStatement\obj\Debug\net6.0\ControlStatement.AssemblyInfo.cs
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ControlStatement\ControlStatement\obj\Debug\net6.0\ControlStatement.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ControlStatement\ControlStatement\bin\Debug\net6.0\ControlStatement.exe
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ControlStatement\ControlStatement\bin\Debug\net6.0\ControlStatement.deps.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ControlStatement\ControlStatement\bin\Debug\net6.0\ControlStatement.runtimeconfig.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ControlStatement\ControlStatement\bin\Debug\net6.0\ControlStatement.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ControlStatement\ControlStatement\bin\Debug\net6.0\ControlStatement.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ControlStatement\ControlStatement\obj\Debug\net6.0\ControlStatement.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ControlStatement\ControlStatement\obj\Debug\net6.0\refint\ControlStatement.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ControlStatement\ControlStatement\obj\Debug\net6.0\ControlStatement.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ControlStatement\ControlStatement\obj\Debug\net6.0\ControlStatement.genruntimeconfig.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ControlStatement\ControlStatement\obj\Debug\net6.0\ref\ControlStatement.dll
