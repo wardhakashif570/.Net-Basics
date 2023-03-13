@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ClassesandObject\ClassesandObject\obj\Debug\net6.0\ClassesandObject.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ClassesandObject\ClassesandObject\obj\Debug\net6.0\ClassesandObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ClassesandObject\ClassesandObject\obj\Debug\net6.0\ClassesandObject.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ClassesandObject\ClassesandObject\obj\Debug\net6.0\ClassesandObject.AssemblyInfo.cs
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ClassesandObject\ClassesandObject\obj\Debug\net6.0\ClassesandObject.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ClassesandObject\ClassesandObject\bin\Debug\net6.0\ClassesandObject.exe
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ClassesandObject\ClassesandObject\bin\Debug\net6.0\ClassesandObject.deps.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ClassesandObject\ClassesandObject\bin\Debug\net6.0\ClassesandObject.runtimeconfig.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ClassesandObject\ClassesandObject\bin\Debug\net6.0\ClassesandObject.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ClassesandObject\ClassesandObject\bin\Debug\net6.0\ClassesandObject.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ClassesandObject\ClassesandObject\obj\Debug\net6.0\ClassesandObject.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ClassesandObject\ClassesandObject\obj\Debug\net6.0\refint\ClassesandObject.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ClassesandObject\ClassesandObject\obj\Debug\net6.0\ClassesandObject.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ClassesandObject\ClassesandObject\obj\Debug\net6.0\ClassesandObject.genruntimeconfig.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ClassesandObject\ClassesandObject\obj\Debug\net6.0\ref\ClassesandObject.dll
