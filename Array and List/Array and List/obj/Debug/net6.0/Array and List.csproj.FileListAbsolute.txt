@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Array and List\Array and List\bin\Debug\net6.0\Array and List.exe
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Array and List\Array and List\bin\Debug\net6.0\Array and List.deps.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Array and List\Array and List\bin\Debug\net6.0\Array and List.runtimeconfig.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Array and List\Array and List\bin\Debug\net6.0\Array and List.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Array and List\Array and List\bin\Debug\net6.0\Array and List.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Array and List\Array and List\obj\Debug\net6.0\Array and List.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Array and List\Array and List\obj\Debug\net6.0\Array and List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Array and List\Array and List\obj\Debug\net6.0\Array and List.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Array and List\Array and List\obj\Debug\net6.0\Array and List.AssemblyInfo.cs
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Array and List\Array and List\obj\Debug\net6.0\Array and List.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Array and List\Array and List\obj\Debug\net6.0\Array and List.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Array and List\Array and List\obj\Debug\net6.0\refint\Array and List.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Array and List\Array and List\obj\Debug\net6.0\Array and List.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Array and List\Array and List\obj\Debug\net6.0\Array and List.genruntimeconfig.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Array and List\Array and List\obj\Debug\net6.0\ref\Array and List.dll
