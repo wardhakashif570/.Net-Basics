@@ -1,18 +1,40 @@
-﻿
-namespace Singleton
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SingletonDemo
 {
     class Program
     {
-        //sealed class restrict the Inheritance
         static void Main(string[] args)
         {
-            SingletonClass S1 = SingletonClass.GetInstance;
-            S1.PrintDetails("This is S1 Class");
-
-
-            SingletonClass S2 = SingletonClass.GetInstance;
-            S2.PrintDetails("This is S2 Class");
+            Parallel.Invoke(
+                () => PrintStudentdetails(),
+                () => PrintEmployeeDetails()
+                );
+            Console.ReadLine();
         }
 
+        private static void PrintEmployeeDetails()
+        {
+            /*
+             * Assuming Singleton is created from employee class
+             * we refer to the GetInstance property from the Singleton class
+             */
+            Singleton fromEmployee = Singleton.GetInstance;
+            fromEmployee.PrintDetails("From Employee");
+        }
+
+        private static void PrintStudentdetails()
+        {
+            /*
+                         * Assuming Singleton is created from student class
+                         * we refer to the GetInstance property from the Singleton class
+                         */
+            Singleton fromStudent = Singleton.GetInstance;
+            fromStudent.PrintDetails("From Student");
+        }
     }
 }
