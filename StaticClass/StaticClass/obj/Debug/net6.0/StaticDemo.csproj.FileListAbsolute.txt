@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\.Net\.Net-Basics\StaticClass\StaticClass\bin\Debug\net6.0\StaticDemo.exe
+C:\Users\Hp\source\repos\.Net\.Net-Basics\StaticClass\StaticClass\bin\Debug\net6.0\StaticDemo.deps.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\StaticClass\StaticClass\bin\Debug\net6.0\StaticDemo.runtimeconfig.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\StaticClass\StaticClass\bin\Debug\net6.0\StaticDemo.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\StaticClass\StaticClass\bin\Debug\net6.0\StaticDemo.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\StaticClass\StaticClass\obj\Debug\net6.0\StaticDemo.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\StaticClass\StaticClass\obj\Debug\net6.0\StaticDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\.Net\.Net-Basics\StaticClass\StaticClass\obj\Debug\net6.0\StaticDemo.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\StaticClass\StaticClass\obj\Debug\net6.0\StaticDemo.AssemblyInfo.cs
+C:\Users\Hp\source\repos\.Net\.Net-Basics\StaticClass\StaticClass\obj\Debug\net6.0\StaticDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\StaticClass\StaticClass\obj\Debug\net6.0\StaticDemo.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\StaticClass\StaticClass\obj\Debug\net6.0\refint\StaticDemo.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\StaticClass\StaticClass\obj\Debug\net6.0\StaticDemo.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\StaticClass\StaticClass\obj\Debug\net6.0\StaticDemo.genruntimeconfig.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\StaticClass\StaticClass\obj\Debug\net6.0\ref\StaticDemo.dll
