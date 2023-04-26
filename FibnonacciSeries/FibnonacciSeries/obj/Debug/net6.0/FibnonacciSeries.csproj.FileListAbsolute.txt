@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\.Net\.Net-Basics\FibnonacciSeries\FibnonacciSeries\obj\Debug\net6.0\FibnonacciSeries.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\FibnonacciSeries\FibnonacciSeries\obj\Debug\net6.0\FibnonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\.Net\.Net-Basics\FibnonacciSeries\FibnonacciSeries\obj\Debug\net6.0\FibnonacciSeries.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\FibnonacciSeries\FibnonacciSeries\obj\Debug\net6.0\FibnonacciSeries.AssemblyInfo.cs
+C:\Users\Hp\source\repos\.Net\.Net-Basics\FibnonacciSeries\FibnonacciSeries\obj\Debug\net6.0\FibnonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\FibnonacciSeries\FibnonacciSeries\bin\Debug\net6.0\FibnonacciSeries.exe
+C:\Users\Hp\source\repos\.Net\.Net-Basics\FibnonacciSeries\FibnonacciSeries\bin\Debug\net6.0\FibnonacciSeries.deps.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\FibnonacciSeries\FibnonacciSeries\bin\Debug\net6.0\FibnonacciSeries.runtimeconfig.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\FibnonacciSeries\FibnonacciSeries\bin\Debug\net6.0\FibnonacciSeries.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\FibnonacciSeries\FibnonacciSeries\bin\Debug\net6.0\FibnonacciSeries.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\FibnonacciSeries\FibnonacciSeries\obj\Debug\net6.0\FibnonacciSeries.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\FibnonacciSeries\FibnonacciSeries\obj\Debug\net6.0\refint\FibnonacciSeries.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\FibnonacciSeries\FibnonacciSeries\obj\Debug\net6.0\FibnonacciSeries.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\FibnonacciSeries\FibnonacciSeries\obj\Debug\net6.0\FibnonacciSeries.genruntimeconfig.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\FibnonacciSeries\FibnonacciSeries\obj\Debug\net6.0\ref\FibnonacciSeries.dll
