@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "51pyx94T0C4xXFmQrF1sQq8j0HnBZAecAUwOMGO8zXU=",
+  "Source": "dashboardapp",
+  "BasePath": "_content/dashboardapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
