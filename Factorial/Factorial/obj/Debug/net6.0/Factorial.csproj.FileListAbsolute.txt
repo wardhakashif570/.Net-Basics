@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Factorial\Factorial\bin\Debug\net6.0\Factorial.exe
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Factorial\Factorial\bin\Debug\net6.0\Factorial.deps.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Factorial\Factorial\bin\Debug\net6.0\Factorial.runtimeconfig.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Factorial\Factorial\bin\Debug\net6.0\Factorial.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Factorial\Factorial\bin\Debug\net6.0\Factorial.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Factorial\Factorial\obj\Debug\net6.0\Factorial.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Factorial\Factorial\obj\Debug\net6.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Factorial\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Factorial\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfo.cs
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Factorial\Factorial\obj\Debug\net6.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Factorial\Factorial\obj\Debug\net6.0\Factorial.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Factorial\Factorial\obj\Debug\net6.0\refint\Factorial.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Factorial\Factorial\obj\Debug\net6.0\Factorial.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Factorial\Factorial\obj\Debug\net6.0\Factorial.genruntimeconfig.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\Factorial\Factorial\obj\Debug\net6.0\ref\Factorial.dll
