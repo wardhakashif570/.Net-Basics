@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\.Net\.Net-Basics\SumOfDigit\SumOfDigit\bin\Debug\net6.0\SumOfDigit.exe
+C:\Users\Hp\source\repos\.Net\.Net-Basics\SumOfDigit\SumOfDigit\bin\Debug\net6.0\SumOfDigit.deps.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\SumOfDigit\SumOfDigit\bin\Debug\net6.0\SumOfDigit.runtimeconfig.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\SumOfDigit\SumOfDigit\bin\Debug\net6.0\SumOfDigit.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\SumOfDigit\SumOfDigit\bin\Debug\net6.0\SumOfDigit.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\SumOfDigit\SumOfDigit\obj\Debug\net6.0\SumOfDigit.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\SumOfDigit\SumOfDigit\obj\Debug\net6.0\SumOfDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\.Net\.Net-Basics\SumOfDigit\SumOfDigit\obj\Debug\net6.0\SumOfDigit.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\SumOfDigit\SumOfDigit\obj\Debug\net6.0\SumOfDigit.AssemblyInfo.cs
+C:\Users\Hp\source\repos\.Net\.Net-Basics\SumOfDigit\SumOfDigit\obj\Debug\net6.0\SumOfDigit.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\SumOfDigit\SumOfDigit\obj\Debug\net6.0\SumOfDigit.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\SumOfDigit\SumOfDigit\obj\Debug\net6.0\refint\SumOfDigit.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\SumOfDigit\SumOfDigit\obj\Debug\net6.0\SumOfDigit.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\SumOfDigit\SumOfDigit\obj\Debug\net6.0\SumOfDigit.genruntimeconfig.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\SumOfDigit\SumOfDigit\obj\Debug\net6.0\ref\SumOfDigit.dll
