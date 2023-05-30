@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ReverseNumber\ReverseNumber\bin\Debug\net6.0\ReverseNumber.exe
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ReverseNumber\ReverseNumber\bin\Debug\net6.0\ReverseNumber.deps.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ReverseNumber\ReverseNumber\bin\Debug\net6.0\ReverseNumber.runtimeconfig.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ReverseNumber\ReverseNumber\bin\Debug\net6.0\ReverseNumber.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ReverseNumber\ReverseNumber\bin\Debug\net6.0\ReverseNumber.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ReverseNumber.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ReverseNumber.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ReverseNumber.AssemblyInfo.cs
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ReverseNumber.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ReverseNumber.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ReverseNumber\ReverseNumber\obj\Debug\net6.0\refint\ReverseNumber.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ReverseNumber.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ReverseNumber.genruntimeconfig.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ref\ReverseNumber.dll
