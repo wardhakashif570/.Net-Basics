@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\.Net\.Net-Basics\swappingTheNumber\swappingTheNumber\bin\Debug\net6.0\swappingTheNumber.exe
+C:\Users\Hp\source\repos\.Net\.Net-Basics\swappingTheNumber\swappingTheNumber\bin\Debug\net6.0\swappingTheNumber.deps.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\swappingTheNumber\swappingTheNumber\bin\Debug\net6.0\swappingTheNumber.runtimeconfig.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\swappingTheNumber\swappingTheNumber\bin\Debug\net6.0\swappingTheNumber.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\swappingTheNumber\swappingTheNumber\bin\Debug\net6.0\swappingTheNumber.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\swappingTheNumber\swappingTheNumber\obj\Debug\net6.0\swappingTheNumber.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\swappingTheNumber\swappingTheNumber\obj\Debug\net6.0\swappingTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\.Net\.Net-Basics\swappingTheNumber\swappingTheNumber\obj\Debug\net6.0\swappingTheNumber.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\swappingTheNumber\swappingTheNumber\obj\Debug\net6.0\swappingTheNumber.AssemblyInfo.cs
+C:\Users\Hp\source\repos\.Net\.Net-Basics\swappingTheNumber\swappingTheNumber\obj\Debug\net6.0\swappingTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\swappingTheNumber\swappingTheNumber\obj\Debug\net6.0\swappingTheNumber.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\swappingTheNumber\swappingTheNumber\obj\Debug\net6.0\refint\swappingTheNumber.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\swappingTheNumber\swappingTheNumber\obj\Debug\net6.0\swappingTheNumber.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\swappingTheNumber\swappingTheNumber\obj\Debug\net6.0\swappingTheNumber.genruntimeconfig.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\swappingTheNumber\swappingTheNumber\obj\Debug\net6.0\ref\swappingTheNumber.dll
