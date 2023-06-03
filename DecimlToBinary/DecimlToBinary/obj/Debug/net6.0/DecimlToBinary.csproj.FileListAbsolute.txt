@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\.Net\.Net-Basics\DecimlToBinary\DecimlToBinary\bin\Debug\net6.0\DecimlToBinary.exe
+C:\Users\Hp\source\repos\.Net\.Net-Basics\DecimlToBinary\DecimlToBinary\bin\Debug\net6.0\DecimlToBinary.deps.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\DecimlToBinary\DecimlToBinary\bin\Debug\net6.0\DecimlToBinary.runtimeconfig.json
+C:\Users\Hp\source\repos\.Net\.Net-Basics\DecimlToBinary\DecimlToBinary\bin\Debug\net6.0\DecimlToBinary.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\DecimlToBinary\DecimlToBinary\bin\Debug\net6.0\DecimlToBinary.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\DecimlToBinary\DecimlToBinary\obj\Debug\net6.0\DecimlToBinary.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\DecimlToBinary\DecimlToBinary\obj\Debug\net6.0\DecimlToBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\.Net\.Net-Basics\DecimlToBinary\DecimlToBinary\obj\Debug\net6.0\DecimlToBinary.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\DecimlToBinary\DecimlToBinary\obj\Debug\net6.0\DecimlToBinary.AssemblyInfo.cs
+C:\Users\Hp\source\repos\.Net\.Net-Basics\DecimlToBinary\DecimlToBinary\obj\Debug\net6.0\DecimlToBinary.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\DecimlToBinary\DecimlToBinary\obj\Debug\net6.0\DecimlToBinary.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\DecimlToBinary\DecimlToBinary\obj\Debug\net6.0\refint\DecimlToBinary.dll
+C:\Users\Hp\source\repos\.Net\.Net-Basics\DecimlToBinary\DecimlToBinary\obj\Debug\net6.0\DecimlToBinary.pdb
+C:\Users\Hp\source\repos\.Net\.Net-Basics\DecimlToBinary\DecimlToBinary\obj\Debug\net6.0\DecimlToBinary.genruntimeconfig.cache
+C:\Users\Hp\source\repos\.Net\.Net-Basics\DecimlToBinary\DecimlToBinary\obj\Debug\net6.0\ref\DecimlToBinary.dll
